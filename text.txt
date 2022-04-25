@@ -1,0 +1,2 @@
+This is git flow test
+This update occurs in remote reporitory
