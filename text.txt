@@ -1,3 +1,4 @@
 This is git flow test
 This update occurs in remote reporitory
 This update occurs in remote reporitory and in release branch
+This update happens in hotfix branch
